@@ -12,8 +12,8 @@ An interactive MATLAB script to perform five different interpolation techniques 
 
 	1. **Clone the Repository**
 		```sh
-		git clone https://github.com/<your-username>/MATLAB-Interpolation-Tool.git
-		cd MATLAB-Interpolation-Tool
+		git clone https://github.com/Antrikshgwal/Matpole
+		cd Matpole
 		```
 	2. **Open the Script**
 		- Open `interpolation_tool.m` in MATLAB or VS Code.
@@ -82,9 +82,7 @@ An interactive MATLAB script to perform five different interpolation techniques 
 	| 380             | 20.1              |
 	| 400             | 23.0              |
 
-	## Demo Screenshot
 
-	(Include a sample plot when you run the script and take a screenshot.)
 Red curve → smooth cubic spline interpolation
 
 Green square → estimated point
